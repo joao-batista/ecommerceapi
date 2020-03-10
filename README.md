@@ -11,7 +11,7 @@ All inputs and outputs use JSON format.
 
 ```
 /api/signin
-  POST / - Signin using login: b and password:b
+  POST / - Signin using login: fulano and password:123456
 
 /api/products
   GET / - List of products
