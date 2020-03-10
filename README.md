@@ -1,6 +1,6 @@
 # Java Spring E-commerce
 
-E-commerce REST API based on Spring Boot, Hibernate ORM with H2, Swagger API docs, JWT and Redis.
+E-commerce REST API based on Spring Boot, Hibernate ORM with H2, Swagger API docs, JWT.
 
 ## REST API Endpoints
 
